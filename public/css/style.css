@@ -107,3 +107,14 @@
     background-color: yellow;
     text-align: center;
 }
+
+a {
+    text-decoration: none;
+}
+
+#embedmap-canvas img {
+    max-width: none!important;
+    background: none!important;
+    font-size: inherit;
+    font-weight: inherit;
+}
