@@ -118,3 +118,7 @@ a {
     font-size: inherit;
     font-weight: inherit;
 }
+
+.card-img-top{
+    height: 200px;
+}
